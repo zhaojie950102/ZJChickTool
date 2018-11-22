@@ -27,7 +27,7 @@ DESC
   s.author       = { "赵杰" => "1065671798@qq.com" }
   s.platform     = :ios, "9.0"
   s.source       = { :git => "https://github.com/zhaojie950102/ZJChickTool.git", :tag => s.version }
-  s.source_files  = "ZJChickTools/*.{h,m}"
+  s.source_files  = "ZJChickTool/ZJChickTool/ZJChickTools/*.{h,m}"
   s.requires_arc = true
 
 end
