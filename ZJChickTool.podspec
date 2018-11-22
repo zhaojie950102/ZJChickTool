@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "ZJChickTool"
-  s.version      = "1.1.0"
+  s.version      = "1.0.0"
   s.summary      = "A short description of ZJChickTool."
   s.summary      = "一个简单的正则"
   s.description  = <<-DESC
